@@ -1,0 +1,9 @@
+Mongo db commands
+
+
+brew services start mongodb-atlas-cli
+brew services stop mongodb-atlas-cli
+
+mongosh
+use myNewDB
+show dbs
